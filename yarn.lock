@@ -6,3 +6,8 @@
   version "8.10.39"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.39.tgz#e7e87ad00364dd7bc485c940926345b8ec1a26ca"
   integrity sha512-rE7fktr02J8ybFf6eysife+WF+L4sAHWzw09DgdCebEu+qDwMvv4zl6Bc+825ttGZP73kCKxa3dhJOoGJ8+5mA==
+
+"@types/vscode@^1.32.0":
+  version "1.32.0"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.32.0.tgz#e0a57de5fc8690a8a3a473996a6b6dfbccc28fbd"
+  integrity sha512-fpHR6iE38V3+2ezMwopt726uRYKK9c89OQDO+t8VEUXNJCaYvnMFbHYgxXvQ/jOvP2ZanlL6r6joRZlsUowzoA==
